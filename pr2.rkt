@@ -1,7 +1,6 @@
 #lang racket
 
-;; Evan Bourgoine (ebourgoine25)
-;; CS3304 Project 2 pr2.rkt file
+;; Author: Evan Bourgoine
 
 ;; main function to handle input and the state
 (define (read-input-and-process)
