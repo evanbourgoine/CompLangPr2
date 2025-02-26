@@ -1,2 +1,2 @@
 The Scheme program created uses the samples list, symbol table, and post-processing function 
-by categorizing the input and performing the updates needed. 
+by categorizing the input and performing the updates needed. Convert temperatures in Celcius and Kelvin to Fahrenheit. Arguments can be a txt file with several temperatures on each new line, or multiple arguments provided in the terminal. Press 'e' when all temperatures have been entered in the terminal for program to run.
