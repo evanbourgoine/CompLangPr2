@@ -161,7 +161,7 @@
                              (second decimal-parts))))
         (string-append formatted ".00"))))
 
-;; display when finished. (when in the funal state)
+;; display when finished. (when in the final state)
 (define (display-final-state state)
   (match state
     [(list samples _ _)
